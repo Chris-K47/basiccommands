@@ -1,0 +1,28 @@
+                       Basic Linux Commands
+
+1.ls -displays directory's files and folders(list files)
+2.cd -changes the current working directory to a specified folder inside the terminal
+3.pwd -shows the current/present working directory
+4.touch -creates a new file without any content inside
+5.mkdir -creates new directories inside an existing working directory from the terminal
+6.rm -helps one to delete files and directories
+7.cat -used to read the contents of one or more files and display their contents inside the terminal
+8.rmdir-deletes empty directories only
+9.wget -utility tool to download applicaions/web pages directly from the web
+10.mv -move a file/directory from one location to another or rename it
+11.cp -copies files/directories from one location to another
+12.tree -lists contents of a directory in a tree-like manner
+13.vi -edits any text content inside the Vim text editor
+14.history -used to view a history of all the commands previously executed inside the bash terminal
+
+
+			Basic git commands
+
+1.git add -moves changes from the working directory to the working area
+2.git clean -removes untracked files from the working directory
+3.git clone -creates a copy of an existing Git repository
+4.git init -used to create an empty Git repository
+5.git status -tells the current state of the repository
+6.git config -used to configure the user.name and user.email.Specifies what username and email will be used from a local repo
+7.git push -used to transfer commits/push the content from the local repository to the remote repository
+8.git branch -used to determine what branch the local repository is on
